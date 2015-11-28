@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Michigan",
+               "short_name" : "University of Michigan",
+               "types" : []
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw County",
+               "short_name" : "Washtenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University of Michigan, Ann Arbor, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2823552,
+                  "lng" : -83.7246461
+               },
+               "southwest" : {
+                  "lat" : 42.2715353,
+                  "lng" : -83.7560385
+               }
+            },
+            "location" : {
+               "lat" : 42.2783714,
+               "lng" : -83.7371794
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2823552,
+                  "lng" : -83.7246461
+               },
+               "southwest" : {
+                  "lat" : 42.2715353,
+                  "lng" : -83.74807150000001
+               }
+            }
+         },
+         "place_id" : "ChIJvVDvkDiuPIgRyEqOjFheWyM",
+         "types" : []
+      }
+   ],
+   "status" : "OK"
+}
